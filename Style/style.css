@@ -1,0 +1,26 @@
+.container {
+    width: 30vw;
+    height: auto;
+    position: relative;
+    top: 100px;
+}
+
+#display {
+    height: 30vh;
+    width: auto;
+    background: black;
+    color: yellow;
+    font-size: 60px;
+    font-family:fantasy;
+    padding: 0px;
+    word-wrap: break-word;
+}
+
+.btn-lg {
+    width: 6.7vw;
+}
+
+ #functs {
+    padding: 0px;
+ }
+
